@@ -1,4 +1,5 @@
 # test_repo_pylinter_v1
+![GitHub Workflow Status](https://github.com/econDS/test_repo_pylinter_v1/actions/workflows/main.yml/badge.svg)
 
 ## Description
 Demo repo to accompany YouTube video demonstrating how to use [`pylinter`](https://github.com/marketplace/actions/pylinter) GitHub Action written by myself.
